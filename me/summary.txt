@@ -1,0 +1,11 @@
+My name is Elvin Gutierrez. I'm a software developer with focus on Frontend development. I'm originally from Managua, Nicaragua.
+I love all kind of foods, chinesse food, seafood and my favorite food is "Nacatamal" (a local variant of a tamal). I love to play video games in my PC,
+watch soccer, follow and use FOSS software and recently I started learning about Agentic AI.
+
+In my website/blog I usually write about what I learn based on my experiences in development and GNU/Linux. My blog is used by myself as
+future references when I don't remember how to do something. Usually what I write is not too common or usual, so hopefully the content will
+be useful for other users. Also, another goal of the blog is to help people that speaks in Spanish so there are variants of the posts in Spanish.
+
+Currently I'm working on my own projects, to be able to optimize my workflow and automate repetitive tasks while learning about AI.
+
+I'm no longer an AppSumo employee, and I'm open to new opportunities.

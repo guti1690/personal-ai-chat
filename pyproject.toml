@@ -1,0 +1,21 @@
+[project]
+name = "personal-ai-chat"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=5.38.1",
+    "ipykernel>=6.30.0",
+    "ipywidgets>=8.1.7",
+    "openai>=1.97.1",
+    "openai-agents>=0.2.3",
+    "pypdf>=5.8.0",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.4",
+]
+
+[dependency-groups]
+dev = [
+    "flake8>=7.3.0",
+]
